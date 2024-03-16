@@ -1,0 +1,14 @@
+{
+  "name": "My Astro Blog",
+  "description": "An Astro based blog with Tailwind CSS and Vite.",
+  "repository": {
+    "url": "https://github.com/owlran/astro-blog-app"
+  },
+  "authors": [
+    {
+      "name": "Owlran",
+      "email": "owlran1088@gmail.com",
+      "url": "https://github.com/owlran"
+    }
+  ]
+}
