@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "astro": "^0.21.12",
+    "tailwindcss": "^2.2.19",
+    "autoprefixer": "^10.3.7"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4",
+    "postcss": "^8.3.11",
+    "@astrojs/renderer-vue": "^0.2.0",
+    "@astrojs/renderer-react": "^0.2.0",
+    "@astrojs/renderer-svelte": "^0.2.0",
+    "@astrojs/renderer-preact": "^0.3.0"
+  }
+}
